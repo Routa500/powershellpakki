@@ -1,0 +1,4 @@
+2026-01-29 12:53:51.628709 : Ylläpitotyökalu käynnistyi
+2026-01-29 12:53:51.629747 : Levytila tarkistettu.
+2026-01-29 12:53:51.646728 : Varmuuskopio valmis: raportit
+2026-01-29 12:53:51.647078 : Ylläpitotyökalu valmis
